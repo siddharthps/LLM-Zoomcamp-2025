@@ -1,0 +1,10 @@
+pandas
+numpy
+qdrant-client[fastembed]>=1.14.2
+fastembed
+requests
+ipykernel
+huggingface_hub[hf_xet]
+openai
+minsearch
+ipywidgets
